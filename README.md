@@ -1,4 +1,4 @@
-## 一键部署 Gost(ss+mws) 到 heroku  [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2waeddds%2gost-rokuhe)
+## 一键部署 Gost(ss+mws) 到 heroku  [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/waeddds/gost-rokuhe)
 
 > 1. 服务端部署后，view查看，显示`404 page not found`，表示部署成功。
 
